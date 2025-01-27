@@ -16,4 +16,4 @@ A **GUI-based Java application** for managing contacts with **CRUD operations** 
 
 ## 📥 Installation
 1. Open the jar file in Eclipse/Intellij or run the .exe file directly
-2. checkout  the screenshots in the gallery section
+2. checkout the screenshot
